@@ -8,4 +8,4 @@ HTML CSS ile yapıldı.
 
 <h3>Ekran Görüntüsü<h3>
 
-![gif](yemee1.gif)
+![gif](yemek1.gif)
