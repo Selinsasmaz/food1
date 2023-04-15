@@ -6,6 +6,6 @@ Hamburger, et, özellikle de sığır eti, dana eti veya tavuk eti kullanılarak
 
 HTML CSS ile yapıldı.
 
-<h3>Ekran Görüntüsü<h3>
+
 
 ![gif](yemek1.gif)
